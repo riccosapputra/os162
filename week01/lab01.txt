@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 rico.saputra StafCS 4096 Oct 13 17:11 .
+drwx--x--x  3 rico.saputra StafCS 4096 Oct 13 16:51 ..
+drwxr-xr-x  8 rico.saputra StafCS 4096 Oct 13 17:09 .git
+-rw-r--r--  1 rico.saputra StafCS    0 Oct 13 17:11 lab01.txt
+-rw-r--r--  1 rico.saputra StafCS    7 Oct 13 16:54 README.md
+drwxr-xr-x  2 rico.saputra StafCS 4096 Oct 13 17:02 SandBox
+drwxr-xr-x  2 rico.saputra StafCS 4096 Oct 13 17:07 week00
+drwxr-xr-x  2 rico.saputra StafCS 4096 Oct 13 16:56 week01
+drwxr-xr-x  2 rico.saputra StafCS 4096 Oct 13 16:56 week02
+drwxr-xr-x  2 rico.saputra StafCS 4096 Oct 13 16:56 week03
+drwxr-xr-x  2 rico.saputra StafCS 4096 Oct 13 16:56 week04
+drwxr-xr-x  2 rico.saputra StafCS 4096 Oct 13 16:56 week05
+drwxr-xr-x  2 rico.saputra StafCS 4096 Oct 13 16:56 week06
+drwxr-xr-x  2 rico.saputra StafCS 4096 Oct 13 16:56 week07
+drwxr-xr-x  2 rico.saputra StafCS 4096 Oct 13 16:56 week08
+drwxr-xr-x  2 rico.saputra StafCS 4096 Oct 13 16:56 week09
+drwxr-xr-x  2 rico.saputra StafCS 4096 Oct 13 16:56 week10
+/home/fasilkom/mahasiswa/r/rico.saputra/os162/week01
