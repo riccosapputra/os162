@@ -1,0 +1,4 @@
+membuat file dengan fitur 
+vi dan nano 
+
+saya lebih suka mengunakan nano karena lebih simple dalam hal penggunaan 
