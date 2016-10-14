@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/r/rico.saputra/.gnupg/pubring.gpg
+----------------------------------------------------------
+pub   4096R/7F4D9BF0 2016-10-14 [expires: 2017-04-12]
+uid                  Rico Saputra (GGWP Easy OS) <rico.saputra@ui.ac.id>
+sub   4096R/6DDC8E21 2016-10-14 [expires: 2017-04-12]
+
